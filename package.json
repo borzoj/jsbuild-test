@@ -1,0 +1,22 @@
+{
+  "name": "zavamed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:healthbridgeltd/zavamed.git",
+  "author": "Engineering Team @ Zava Ltd.",
+  "license": "UNLICENSED",
+  "scripts": {
+    "lint:css": "sass-lint -v -q",
+    "npm-check-updates": "npm-check-updates"
+  },
+  "devDependencies": {
+    "node-sass": "4.13.1"
+  },
+  "dependencies": {
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "ie >= 11"
+  ]
+}
